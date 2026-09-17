@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I’m Zahraa 👋
 
-<!--
-**zahraarozhbayanii/zahraarozhbayanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Graduate | Backend Developer
 
-Here are some ideas to get you started:
+I’m focused on building reliable backend systems and currently deepening my skills in Ruby, Ruby on Rails, APIs, and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently Working and Learning With
+
+Ruby · Rails · PostgreSQL · Linux
+Backend engineering,and writing software that is simple, reliable, and built to last.
+
+📫 Connect:
+
+LinkedIn ( https://www.linkedin.com/in/zahraa-mihammed?utm_source=share_via&utm_content=profile&utm_medium=member_ios ).
+
+Understand deeply. Build with purpose.
