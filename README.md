@@ -11,6 +11,6 @@ Backend engineering,and writing software that is simple, reliable, and built to 
 
 📫 Connect:
 
-LinkedIn ( https://www.linkedin.com/in/zahraa-mihammed?utm_source=share_via&utm_content=profile&utm_medium=member_ios ).
+LinkedIn ( https://www.linkedin.com/in/zahraa-mihammed ).
 
 Understand deeply. Build with purpose.
